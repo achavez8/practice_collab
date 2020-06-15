@@ -1,3 +1,3 @@
 # practice_collab
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/assignment6.png)
